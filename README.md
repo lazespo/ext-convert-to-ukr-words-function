@@ -7,8 +7,8 @@ Formula script function for converting amount (or any other numeric value) to uk
 **Examples:**
 
 ```
-amount\convertToUkrWords(10000.66) // will return `десять тисяч гривень шістдесят шість копійок`
-amount\convertToUkrWords(1310440.24) // will return `один мільйон триста десять тисяч чотириста сорок гривень двадцять чотири копійки`
+amount\convertToUkrWords(10000.66) // will return `Десять тисяч гривень 66 копійок`
+amount\convertToUkrWords(1310440.24) // will return `Один мільйон триста десять тисяч чотириста сорок гривень 24 копійки`
 ```
 
 ## Situational example of use
