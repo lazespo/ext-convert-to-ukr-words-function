@@ -1,0 +1,12 @@
+{
+    "functionClassNameMap": {
+        "amount\\convertToUkrWords": "Espo\\Modules\\ConvertToUkrWordsFunction\\FormulaFunctions\\ConvertToUkrWords"
+    },
+    "functionList": [
+        "__APPEND__",
+        {
+            "name": "amount\\convertToUkrWords",
+            "insertText": "amount\\convertToUkrWords(VALUE)"
+        }
+    ]
+}
