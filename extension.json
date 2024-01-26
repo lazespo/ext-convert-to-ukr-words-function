@@ -1,9 +1,9 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
-    "bundled": {@bundled},
+    "module": "CurrencyToUAWords",
+    "name": "Currency to UA Words function and helper",
+    "description": "Formula script function and PDF template helper for converting amount to ukrainian words.",
+    "author": "Renata",
+    "bundled": false,
     "acceptableVersions": [
         ">=7.3.0"
     ],
