@@ -1,0 +1,12 @@
+{
+    "functionClassNameMap": {
+        "amount\\currencyToUAWords": "Espo\\Modules\\CurrencyToUAWords\\FormulaFunctions\\CurrencyToUAWords"
+    },
+    "functionList": [
+        "__APPEND__",
+        {
+            "name": "amount\\currencyToUAWords",
+            "insertText": "amount\\currencyToUAWords(VALUE)"
+        }
+    ]
+}
